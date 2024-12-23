@@ -1,0 +1,24 @@
+# Archivos generales VScode
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+# Directorios y archivos de compilación maven
+/target/
+/build/
+# Dependencias externas
+/lib/
+
+# Otros archivos generados windows
+Thumbs.db
+.DS_Store
+# Archivos de caché y log
+*.log
+.cache/
+
+*.class
+/.mvn/
+.env
+application.properties
+application.yml
